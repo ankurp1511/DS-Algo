@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3acb9d2d-c0c0-4cbe-b492-ac8c2a662118" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jVjqKyV6RFRha9WzdaMcHJYpqr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="StockSpanProblem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3acb9d2d-c0c0-4cbe-b492-ac8c2a662118" name="Default Changelist" comment="" />
+      <created>1603896342493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603896342493</updated>
+      <workItem from="1603896353248" duration="4219000" />
+      <workItem from="1604035062474" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="483" y="160" key="#xdebugger.evaluate" timestamp="1603899586154">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="483" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1603899586154" />
+    <state width="1398" height="408" key="GridCell.Tab.0.bottom" timestamp="1604003945100">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="408" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604003945100" />
+    <state width="1398" height="408" key="GridCell.Tab.0.center" timestamp="1604003945098">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="408" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604003945098" />
+    <state width="1398" height="408" key="GridCell.Tab.0.left" timestamp="1604003945097">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="408" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604003945097" />
+    <state width="1398" height="408" key="GridCell.Tab.0.right" timestamp="1604003945099">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="408" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604003945099" />
+    <state width="1398" height="408" key="GridCell.Tab.1.bottom" timestamp="1604003945095">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="408" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604003945095" />
+    <state width="1398" height="408" key="GridCell.Tab.1.center" timestamp="1604003945093">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="408" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1604003945093" />
+    <state width="1398" height="408" key="GridCell.Tab.1.left" timestamp="1604003945092">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="408" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1604003945092" />
+    <state width="1398" height="408" key="GridCell.Tab.1.right" timestamp="1604003945094">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="408" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1604003945094" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
