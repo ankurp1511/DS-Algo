@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d23af7f-8fa0-45b6-b3e6-85d5beacc07a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../01KnapsackBottomUp/01KnapsackBottomUp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../01KnapsackProblem/01KnapsackProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/BinarySearch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountOfAnElementInSortedArray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountOfAnElementInSortedArray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountOfAnElementInSortedArray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountOfAnElementInSortedArray/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountOfAnElementInSortedArray/CountOfAnElementInSortedArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountOfAnElementInSortedArray/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstOccuranceOfElement/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstOccuranceOfElement/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstOccuranceOfElement/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstOccuranceOfElement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstOccuranceOfElement/FirstOccuranceOfElement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstOccuranceOfElement/out/production/FirstOccuranceOfElement/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstOccuranceOfElement/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LastOccuranceOfElement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LastOccuranceOfElement/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LongestSubarrayWithAllNonRepeatingCharacters/LongestSubarrayWithAllNonRepeatingCharacters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LongestSubarrayWithAllNonRepeatingCharacters/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LongestSubarrayWithKCharacters/LongestSubarrayWithKCharacters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaxOfAllSubArrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaxOfAllSubArrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaxOfAllSubArrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaxOfAllSubArrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaxOfAllSubArrays/MaxOfAllSubArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaxOfAllSubArrays/out/production/MaxOfAllSubArrays/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MinimumWindowSubstring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MinimumWindowSubstring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MinimumWindowSubstring/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MinimumWindowSubstring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MinimumWindowSubstring/MinimumWindowSubstring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MinimumWindowSubstring/out/production/MinimumWindowSubstring/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/.idea/SlidingWindow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01KnapsackTopDown/01knapsackTopDown.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01KnapsackTopDown/01knapsackTopDown.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1ToNMissingAndDuplicate/1ToNMissingAndDuplicate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1ToNMissingAndDuplicate/1ToNMissingAndDuplicate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APowB/APowB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../APowB/APowB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APowB/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../APowB/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Adidas/Adidas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Adidas/Adidas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayRotation/ArrayRotation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ArrayRotation/ArrayRotation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BiggerIsGreater/BiggerIsGreater.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BiggerIsGreater/BiggerIsGreater.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinaryTree/BinaryTree.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinaryTree/BinaryTree.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClimbingTheLeadership/ClimbingTheLeadership.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ClimbingTheLeadership/ClimbingTheLeadership.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClimbingTheLeadership1/ClimbingTheLeadership1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ClimbingTheLeadership1/ClimbingTheLeadership1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Comparator/Comparator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Comparator/Comparator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ContainerOfBall/ContainerOfBall.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ContainerOfBall/ContainerOfBall.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DeutcheTelekom/DeutcheTelekom.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DeutcheTelekom/DeutcheTelekom.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example/Example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Example/Example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExampleString/ExampleString.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExampleString/ExampleString.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FizzBuzz/FizzBuzz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../FizzBuzz/FizzBuzz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FleetOfVehicles/FleetOfVehicles.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../FleetOfVehicles/FleetOfVehicles.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GamingArray/GamingArray.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../GamingArray/GamingArray.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GamingArrayUsingLibrary/GamingArrayUsingLibrary.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../GamingArrayUsingLibrary/GamingArrayUsingLibrary.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JosephusCircle/JosephusCircle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JosephusCircle/JosephusCircle.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KnightTour/KnightTour.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../KnightTour/KnightTour.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KthCharacterInGrammar/KthCharacterInGrammar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../KthCharacterInGrammar/KthCharacterInGrammar.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LCSRecursive/LCSRecursive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LCSRecursive/LCSRecursive.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/LinkedList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/LinkedList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MapExample/MapExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MapExample/MapExample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NearestGreaterToLeft/NearestGreaterToLeft.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NearestGreaterToLeft/NearestGreaterToLeft.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NearestSmallerToRight/NearestSmallerToRight.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NearestSmallerToRight/NearestSmallerToRight.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NextGreaterToRight/NextGreaterToRight.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NextGreaterToRight/NextGreaterToRight.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NextGreatorElement/NextGreatorElement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NextGreatorElement/NextGreatorElement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OddDivisorSummation/OddDivisorSummation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../OddDivisorSummation/OddDivisorSummation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PermutationWithCaseChange/PermutationWithCaseChange.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PermutationWithCaseChange/PermutationWithCaseChange.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PermutationWithSpace/PermutationWithSpace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PermutationWithSpace/PermutationWithSpace.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Print1ton/Print1ton.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Print1ton/Print1ton.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReverseStack/ReverseStack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReverseStack/ReverseStack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SherlockAndPairs/SherlockAndPairs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SherlockAndPairs/SherlockAndPairs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SortingRecursive/SortingRecursive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SortingRecursive/SortingRecursive.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockSpanProblem/StockSpanProblem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../StockSpanProblem/StockSpanProblem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SubsetProblem/SubsetProblem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SubsetProblem/SubsetProblem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TRAXN/TRAXN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TRAXN/TRAXN.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TargetSum/TargetSum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TargetSum/TargetSum.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ToolList/ToolList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ToolList/ToolList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TowerOfHanoi/TowerOfHanoi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TowerOfHanoi/TowerOfHanoi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UniqueSubsetProblem/UniqueSubsetProblem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../UniqueSubsetProblem/UniqueSubsetProblem.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1tDoINkEXtj37hUrBFwxRXkjE1k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="LastOccuranceOfElement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d23af7f-8fa0-45b6-b3e6-85d5beacc07a" name="Default Changelist" comment="" />
+      <created>1622312945308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622312945308</updated>
+    </task>
+    <servers />
+  </component>
+</project>

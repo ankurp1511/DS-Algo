@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LongestSubarrayWithAllNonRepeatingCharacters/LongestSubarrayWithAllNonRepeatingCharacters.iml" filepath="$PROJECT_DIR$/LongestSubarrayWithAllNonRepeatingCharacters/LongestSubarrayWithAllNonRepeatingCharacters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LongestSubarrayWithKCharacters/LongestSubarrayWithKCharacters.iml" filepath="$PROJECT_DIR$/LongestSubarrayWithKCharacters/LongestSubarrayWithKCharacters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxOfAllSubArrays/MaxOfAllSubArrays.iml" filepath="$PROJECT_DIR$/MaxOfAllSubArrays/MaxOfAllSubArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinimumWindowSubstring/MinimumWindowSubstring.iml" filepath="$PROJECT_DIR$/MinimumWindowSubstring/MinimumWindowSubstring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SlidingWindow.iml" filepath="$PROJECT_DIR$/.idea/SlidingWindow.iml" />
+    </modules>
+  </component>
+</project>
