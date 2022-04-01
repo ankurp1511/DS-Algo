@@ -1,6 +1,4 @@
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.Stack;
+import java.util.*;
 
 public class Tree {
 
@@ -43,7 +41,9 @@ public class Tree {
 //          rightViewRecursive();
 //        System.out.println();
 //        leftViewRecursive();
-          printAncestors(root, node2);
+          //printAncestors(root, node2);
+
+        levelOrder(root);
 //        Node node = lca(root, node2, node5);
 //        System.out.println(node.getData());
 //        diameter(root);
@@ -53,6 +53,36 @@ public class Tree {
 
     }
 
+    public static List<List<Integer>> levelOrder(Node root) {
+        Queue<Node> queue = new LinkedList<>();
+        List<List<Integer>> result = new ArrayList<>();
+        if (root == null) {
+            return new ArrayList<>();
+        }
+
+        queue.add(root);
+        queue.add(null);
+
+        result.add(new ArrayList<>());
+
+        while (!queue.isEmpty()) {
+            Node node = queue.poll();
+
+            if (node == null && !queue.isEmpty()) {
+                queue.add(null);
+                result.add(new ArrayList<>());
+            } else if (!queue.isEmpty()){
+                result.get(result.size() - 1).add(node.getData());
+                if (node.getlChild() != null) {
+                    queue.add(node.getlChild());
+                }
+                if (node.getrChild() != null) {
+                    queue.add(node.getrChild());
+                }
+            }
+        }
+        return result;
+    }
 
     private static int findMaxElement(Node node){
 
