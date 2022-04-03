@@ -7,6 +7,7 @@ public class Tree {
     static Integer num = Integer.MIN_VALUE;
     private static int sum;
     private static int size;
+    private static Integer max = Integer.MIN_VALUE;
 
     public static void main(String[] args) {
 
@@ -43,7 +44,8 @@ public class Tree {
 //        leftViewRecursive();
           //printAncestors(root, node2);
 
-        levelOrder(root);
+ //       levelOrder(root);
+          maxPathSum(root);
 //        Node node = lca(root, node2, node5);
 //        System.out.println(node.getData());
 //        diameter(root);
@@ -51,6 +53,35 @@ public class Tree {
 //
 //        sumOfCoveredAndUncoveredNodes();
 
+    }
+
+    private static int maxPathSum(Node root) {
+
+        maxSum(root);
+        return max;
+    }
+
+    private static int maxSum(Node node) {
+
+        if (node == null) {
+            return 0;
+        }
+
+        int lMax = maxSum(node.getlChild());
+        int rMax = maxSum(node.getrChild());
+
+        int maxPath = Math.max(lMax, rMax);
+
+        if (node.getData() >= node.getData() + maxPath) {
+            max = Math.max(max, node.getData());
+            return node.getData();
+        } else if (node.getData() + maxPath > node.getData() + lMax + rMax) {
+            max = Math.max(max, node.getData() + maxPath);
+            return node.getData() + maxPath;
+        } else {
+            max = Math.max(max, node.getData() + lMax + rMax);
+            return node.getData() + maxPath;
+        }
     }
 
     public static List<List<Integer>> levelOrder(Node root) {
