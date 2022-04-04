@@ -30,8 +30,8 @@ public class Graph {
 
         for (int i = 1; i<= n ; i++) {
             if (coloured[i] == -1) {
-                if (!isBipartite(adjList, coloured, i, 0)) {
-                    return false;
+                if (isBipartite(adjList, coloured, i, 0)) {
+                    return true;
                 }
             }
         }
@@ -44,11 +44,11 @@ public class Graph {
 
         for (Integer num : adjList.get(node)) {
             if (coloured[num] == -1) {
-                if (!isBipartite(adjList, coloured, num, 1 - colour)){
-                    return false;
+                if (isBipartite(adjList, coloured, num, 1 - colour)){
+                    return true;
                 }
             } else if (coloured[num] == coloured[node]) {
-                return false;
+                return true;
             }
         }
         return true;
