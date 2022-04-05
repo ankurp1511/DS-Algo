@@ -20,7 +20,7 @@ public class Solution {
             solve(null, output + input);
         }else {
             solve(input.substring(1), output + input.substring(0,1).toUpperCase());
-            solve(input.substring(1), output + input.substring(0,1));
+            solve(input.substring(1), output + input.charAt(0));
         }
     }
 }
